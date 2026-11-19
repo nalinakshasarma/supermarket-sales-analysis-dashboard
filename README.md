@@ -44,8 +44,9 @@ The analysis was performed on a dataset containing **8,523 records**, with the o
 - Product visibility showed no clear relationship with sales.
 
 ## Project Files
-- `Supermarket Sales Analysis Dashboard.xlsx` – Complete Excel workbook containing the original dataset, cleaned data, analysis worksheets, PivotTables, charts, and final dashboard.
-- `Supermarket Dashboard.png` – Final dashboard screenshot.
+
+- [Supermarket Sales Analysis Dashboard.xlsx](Supermarket%20Sales%20Analysis%20Dashboard.xlsx) – Complete Excel workbook containing the original dataset, cleaned data, analysis worksheets, PivotTables, charts, and final dashboard.
+- [Supermarket Dashboard.png](Supermarket%20Dashboard.png) – Final dashboard screenshot.
 
 ## Conclusion
 This project demonstrates the use of Microsoft Excel for data cleaning, exploratory analysis, statistical evaluation, and dashboard development to generate actionable business insights and support data-driven decision-making.
